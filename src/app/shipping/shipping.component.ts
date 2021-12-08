@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 import { CartService } from '../cart.service';
 
-https: @Component({
+@Component({
   selector: 'app-shipping',
   templateUrl: './shipping.component.html',
   styleUrls: ['./shipping.component.css'],
